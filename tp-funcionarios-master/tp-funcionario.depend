@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1676596878 source:c:\users\rtorr\desktop\tp funcionarios\tp-funcionario\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcionario.c"
+	"busca_sequencial.h"
+
+1676596211 c:\users\rtorr\desktop\tp funcionarios\tp-funcionario\funcionario.c
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"funcionario.h"
+
+1676417455 c:\users\rtorr\desktop\tp funcionarios\tp-funcionario\funcionario.h
+
+1676610441 source:c:\users\rtorr\desktop\tp funcionarios\tp-funcionario\busca_sequencial.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+	<time.h>
+	"funcionario.h"
+	"busca_sequencial.h"
+
+1676593157 c:\users\rtorr\desktop\tp funcionarios\tp-funcionario\busca_sequencial.h
+	<stdio.h>
+
+1676594998 source:c:\users\rtorr\desktop\tp funcionarios\tp-funcionario\ordenacao_busca.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"funcionario.h"
+
